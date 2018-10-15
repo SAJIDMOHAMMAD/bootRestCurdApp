@@ -1,0 +1,4 @@
+spring:
+    data:
+        mongodb:
+            uri : mongodb://CloudFoundry_flve8lqq_uahu7irg_47d6ed27:_X36RhAQJPZZpIgbT4A98acWnlL8gixx@ds161322.mlab.com:61322/CloudFoundry_flve8lqq_uahu7irg
